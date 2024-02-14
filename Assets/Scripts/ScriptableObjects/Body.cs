@@ -12,7 +12,7 @@ public class Body : ScriptableObject
     public SerializableObjectReference<BodyPart> RightLeg;
     public SerializableObjectReference<BodyPart> Horns;
     public SerializableObjectReference<BodyPart> Eyes;
-    public SerializableObjectReference<BodyPart> Tail; 
+    public SerializableObjectReference<BodyPart> Tail;
     public SerializableObjectReference<BodyPart> Wings;
 }
 
