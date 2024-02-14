@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be427b046b5c6bc46b746edc5b423f84, type: 3}
+  m_Name: Body
+  m_EditorClassIdentifier: 
+  Head:
+    _value: {fileID: 11400000, guid: bff397feb03e90d4f95fb30b8680f22f, type: 2}
+  Chest:
+    _value: {fileID: 0}
+  LeftArm:
+    _value: {fileID: 0}
+  RightArm:
+    _value: {fileID: 0}
+  LeftLeg:
+    _value: {fileID: 0}
+  RightLeg:
+    _value: {fileID: 0}
+  Horns:
+    _value: {fileID: 0}
+  Eyes:
+    _value: {fileID: 0}
+  Tail:
+    _value: {fileID: 0}
+  Wings:
+    _value: {fileID: 0}

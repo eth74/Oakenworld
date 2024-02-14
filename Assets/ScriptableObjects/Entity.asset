@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b842fa8c190742488c01eae5a3b7ec4, type: 3}
+  m_Name: Entity
+  m_EditorClassIdentifier: 
+  Rarity: 0
+  Type: 0
+  CanDie: 0
+  Skill_01:
+    _value: {fileID: 0}
+  Skill_02:
+    _value: {fileID: 0}
+  Skill_03:
+    _value: {fileID: 0}
+  Skill_04:
+    _value: {fileID: 0}
+  Body:
+    _value: {fileID: 11400000, guid: ffc45111b6b9d5144b29c1adcef09403, type: 2}
+  Stats: {fileID: 0}
+  IconImage: 
+  ClassImage: 
+  Animator: {fileID: 0}
